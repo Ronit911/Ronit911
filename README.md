@@ -45,8 +45,8 @@ Focused on Machine Learning, Data Science, and Problem Solving
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ronit911\&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit911\&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ronit911&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronit911&layout=compact&theme=tokyonight)
 
 ---
 
