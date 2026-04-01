@@ -22,8 +22,8 @@ Focused on Machine Learning, Data Science, and Problem Solving
 * SMS Spam Classifier
   NLP-based model using TF-IDF and Naive Bayes
 
-* Automated Income Tax Calculator
-  Python + MySQL based system for tax computation
+* Customer Churn Prediction  
+  ML model using data preprocessing, feature selection, and classification techniques  
 
 ---
 
