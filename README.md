@@ -1,6 +1,6 @@
 # Ronit Mehta
 
-### Computer Science Engineering Student @ VIT Bhopal
+### Computer Science Engineering Student 
 **Machine Learning • AI Engineering • Data Science • Backend • DevOps**
 
 I build practical software systems across **machine learning, AI applications, backend development, data engineering, and deployment**.
