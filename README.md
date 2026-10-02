@@ -174,9 +174,7 @@ Currently working on improving:
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronit911&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ronit911&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ronit911&theme=tokyonight&hide_border=true)
 
 ---
 
