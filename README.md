@@ -11,7 +11,7 @@ My projects range from classical ML and NLP pipelines to RAG systems, full-stack
 
 ## About Me
 
-- Computer Science Engineering student at **VIT Bhopal**
+- Computer Science Engineering student
 - Focused on **Machine Learning, AI Engineering, Data Science, and Software Engineering**
 - Strong foundation in **Python, Java, SQL, Data Structures & Algorithms**
 - Experience building end-to-end ML systems covering **data preprocessing, feature engineering, model training, evaluation, APIs, and deployment**
