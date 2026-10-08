@@ -184,7 +184,7 @@ Currently working on improving:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ronit911-181717?style=for-the-badge&logo=github)](https://github.com/Ronit911)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronit%20Mehta-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ronitmehta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ronit%20Mehta-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ronit-mehta-333361280/)
 
 ---
 
